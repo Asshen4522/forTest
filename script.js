@@ -1,6 +1,8 @@
 const rawr = new Audio()
 rawr.src = 'lynx.mp3'
 
+console.log('123');
+
 
 function say() {
     
